@@ -1,1 +1,3 @@
-Hello, this is for test
+It's a simple java-based tool to draw a graphic on 4 8 times 16 squares.
+You can change the color with the .xml file.
+The ouput of this .jar is verilog codes and a decoder for the color.
